@@ -1,0 +1,68 @@
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+.banner-con{
+    text-align: center;
+    color: #fff;
+
+}
+.banner-con h1{
+    font-size: 40px;
+}
+.banner-con h4{
+    font-size: 35px;
+    color: #a8a8a8;
+    padding-top: 20px;
+
+}
+.banner-con a{
+    margin-top: 30px;
+    display: inline-block;
+    padding: 10px 20px;
+    background: #3F8DBF;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.col-100{
+    flex: 0 0 100%;
+    padding: 0 15px;}
+.banner{
+    background: url(images/images/SLIDE.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+width: 100%;
+height: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.link{
+    padding: 10px;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sub-link{
+    text-align: center;
+}
+.f-b{
+    border-bottom:#6c6c6c 2px solid;
+}
+.container{
+    margin-bottom: 50px;
+}
+.slidei{
+    background-image: url("images/images/SLIDE.png");
+    background-size:cover;
+   height: 500px;
+   width: 100%;
+
+    background-repeat: no-repeat;
+   
+}
